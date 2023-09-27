@@ -1,6 +1,6 @@
 import datetime
 
-def dia_programador(year):
+def dia_del_programador(year):
     # Creo una fecha para el día 256 del año dado
     fecha_programador = datetime.date(year, 1, 1) + datetime.timedelta(days=255)
     
