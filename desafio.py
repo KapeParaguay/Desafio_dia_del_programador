@@ -1,4 +1,3 @@
-
 import datetime
 
 def dia_programador(year):
