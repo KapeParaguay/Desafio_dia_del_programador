@@ -2,10 +2,6 @@
 
 Este es un desafío de programación para calcular el Día del Programador dado un año.
 
-## Descripción
-
-Este código en Python te permite calcular la fecha del Día del Programador para un año específico.
-
 ## Uso
 
 Puedes utilizar la función `dia_programador(year)` para calcular la fecha del Día del Programador para un año dado. La función devuelve una lista con el día, el nombre del mes, el año, el nombre del día de la semana y la palabra "celebrará".
